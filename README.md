@@ -8,13 +8,21 @@
 
 ---
 
-**Project 1**
+**Project 1: 3D Data Acquisition using a Structured Light Technique**
+
+* Developed system that calculates the 3D coordinates of points in an image lit by a shadow plane, by using structured light techniques.
+* Implemented all necessary stages in the process, including the camera calibration process, the light projection system calibration, the edge and line detection algorithms and the final calculation of 3D coordinates.
+* Languages/technologies used: Python.
 
 **Grade**: 19 / 20
 
 ---
 
-**Project 2**
+**Project 2: Artwork Recognition using Bag of Words and CNNs**
+
+* Developed a system that can perform classification of images, applied in this case to the artwork collection dataset provided by the [Metropolitan Museum of Art in New York](https://www.kaggle.com/metmuseum/the-metropolitan-museum-of-art-open-access).
+* Implemented several methods and techniques to solve the problem, like using a Bag of Words descriptor + classifier, and using Convolutional Neural Networks.
+* Evaluated the performance of each method using relevant metrics, and discussed the results.
 
 **Grade**: 17.7 / 20
 
